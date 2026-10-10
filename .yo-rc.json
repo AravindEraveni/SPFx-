@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.3",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "final-crud",
+    "libraryId": "982c10b9-f127-4782-a7e3-9bafceb009f7",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "finalCrud",
+    "solutionShortDescription": "finalCrud description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
